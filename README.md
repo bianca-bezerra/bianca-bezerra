@@ -9,7 +9,7 @@ Nesta atividade, desenvolvemos páginas de Home e Login usando HTML e CSS para c
 
 1. **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/FullStack-Senai.git
+    git clone https://github.com/bianca-bezerra/FullStack-Senai.git
     ```
 
 2. **Navegue até o diretório da atividade 1:**
