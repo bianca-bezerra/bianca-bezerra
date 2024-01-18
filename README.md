@@ -14,7 +14,7 @@ Nesta atividade, desenvolvemos páginas de Home e Login usando HTML e CSS para c
 
 2. **Navegue até o diretório da atividade 1:**
     ```bash
-    cd FullStack-Senai/atividade-1
+    cd FullStack-Senai/Atividade1
     ```
 
 ### Execução
@@ -40,7 +40,7 @@ Na atividade 2, expandimos nossas páginas de Home e Login para um site de jogos
 
 2. **Navegue até o diretório da atividade 2:**
     ```bash
-    cd FullStack-Senai/atividade-2
+    cd FullStack-Senai/Atividade2
     ```
 
 3. **Instale as dependências:**
