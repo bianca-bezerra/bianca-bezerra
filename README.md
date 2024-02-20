@@ -44,15 +44,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/bianca-bezerra/bianca-bezerra/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=bianca-bezerra&theme=jolly" alt="Layout with last medium posts"  />
-</div>
-
-###
