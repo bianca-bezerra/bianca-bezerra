@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- System Development Student at Federal Institute of Piaui (IFPI)<br>- Interested in Full-Stack Development and Computer Vision</p>
+<p align="left">- System Development Student at Federal Institute of Piaui (IFPI)<br>- Interested in Full-Stack Development</p>
 
 ###
 
