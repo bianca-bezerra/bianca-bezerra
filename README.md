@@ -1,11 +1,11 @@
-<p>
-  <strong style="font-size: 28px;">Hi, I'm Bianca Bezerra!</strong>
+<h2>
+  Hi, I'm Bianca Bezerra!
   <img 
     src="https://media.giphy.com/media/t1n31R6QKTUvtluAAi/giphy.gif" 
-    width="40" 
-    style="vertical-align: middle; margin-left: 6px;"
-  />
-</p>
+    width="30" 
+    style="vertical-align: middle;"
+  >
+</h2>
 
 <img 
   align="right" 
@@ -19,7 +19,7 @@
     <a href="https://www.ifpi.edu.br/">Instituto Federal do Piauí</a>
     <img 
       src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFwem9vc3M2ZWZ0cGtzaHF2NGh4NjB0c3d2OW9nc2QxNmRoM251bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h4x6RMBru1Mx7zLWko/giphy.gif" 
-      width="0" 
+      width="30" 
       style="vertical-align: text-bottom;"
     >
   </em>
@@ -41,15 +41,14 @@
   </a>
 </p>
 
-<p>
+<h3>
   <img 
     src="https://media.giphy.com/media/cgzHlhotPqBPesNYyU/giphy.gif?cid=ecf05e4767375ilwyky4jpcu4m0x884y5lyna3nu25isykqt&ep=v1_stickers_related&rid=giphy.gif&ct=s" 
     width="60" 
-    style="margin-right: 8px; vertical-align: middle;"
-  />
-  <strong style="font-size: 20px;">A little more about me...</strong>
-</p>
-
+    style="vertical-align: middle;"
+  >
+  A little more about me...
+</h3>
 
 ```javascript
 const bia = {
@@ -60,16 +59,15 @@ const bia = {
 }
 
 ```
-<br>
-<p>
-  <img 
-    src="https://media.giphy.com/media/YT8NIA8fU2pz6Gf2kR/giphy.gif" 
-    width="45" 
-    style="margin-right: 8px; vertical-align: middle;"
-  />
-  <strong style="font-size: 20px;">Stats!</strong>
-</p>
 
+<h3>
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnUyaDhzYWVqa2ZtMzkzbGg1ZmdzaWJudWI4YXlvY2d0Y3ZyNXFmNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YT8NIA8fU2pz6Gf2kR/giphy.gif" 
+    width="40" 
+    style="vertical-align: middle;"
+  >
+  Stats!
+</h3>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=bianca-bezerra&show_icons=true&theme=dracula" height="170" alt="Bianca's GitHub stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bianca-bezerra&layout=compact&theme=dracula" height="170" alt="Most Used Languages"/> </p> 
 
