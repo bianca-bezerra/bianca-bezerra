@@ -1,6 +1,6 @@
 ## Hi, I'm Bianca Bezerra! <img src="https://media.giphy.com/media/t1n31R6QKTUvtluAAi/giphy.gif" width="30" align="center">
 
-<img align="right" src="https://cdn-images-1.medium.com/v2/resize:fit:720/0*41inHKnPhGb04HsO.gif" width="280"/>
+<img align="right" src="./cats/pusheen-git.gif" width="250"/>
 
 *System Development Student at [Instituto Federal do Piauí](https://www.ifpi.edu.br/)* <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFwem9vc3M2ZWZ0cGtzaHF2NGh4NjB0c3d2OW9nc2QxNmRoM251bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h4x6RMBru1Mx7zLWko/giphy.gif" width="30" align="center">
 
@@ -12,8 +12,8 @@
 ```javascript
 const bia = {
   pronouns: "she" | "her",
-  code: [javascript, typescript, HTML, CSS, python, java],
-  tools: [react, react native, node, nextJS, docker, django, flutter, figma, git],
+  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  tools: [React, React Native, Node, Docker, Django, Flutter, Figma, Git],
   interests: ["mobile development", "web development", "UI/UX design"],
 }
 ```
