@@ -2,7 +2,7 @@
 
 <img align="right" src="./cats/pusheen-git.gif" width="230"/>
 
-*System Development Student at [Instituto Federal do Piauí](https://www.ifpi.edu.br/)* <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFwem9vc3M2ZWZ0cGtzaHF2NGh4NjB0c3d2OW9nc2QxNmRoM251bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h4x6RMBru1Mx7zLWko/giphy.gif" width="30" align="center">
+*System Development Student at [Instituto Federal do Piauí](https://www.ifpi.edu.br/)* (5/5) <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFwem9vc3M2ZWZ0cGtzaHF2NGh4NjB0c3d2OW9nc2QxNmRoM251bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h4x6RMBru1Mx7zLWko/giphy.gif" width="30" align="center">
 
 <p>
   <a href="https://www.linkedin.com/in/bianca--bezerra/">
@@ -20,7 +20,7 @@
 </p>
 
 
-### <img src="https://media.giphy.com/media/cgzHlhotPqBPesNYyU/giphy.gif?cid=ecf05e4767375ilwyky4jpcu4m0x884y5lyna3nu25isykqt&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="40" align="center"> A little more about me...
+### <img src="https://media.giphy.com/media/cgzHlhotPqBPesNYyU/giphy.gif?cid=ecf05e4767375ilwyky4jpcu4m0x884y5lyna3nu25isykqt&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="50" align="center"> About me...
 
 ```javascript
 const bia = {
